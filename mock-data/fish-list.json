@@ -1,0 +1,83 @@
+{
+  "fishes": [
+    {
+      "id": 1,
+      "info": "Bottomfish fishing operations, typically using weighted lines and baited hooks, do not have adverse impacts to the habitat.",
+      "region": "Pacific Islands",
+      "scientificName": "Pristipomoides filamentosus",
+      "img": "../fishes/Pinksnapper.gif",
+      "name": "Crimson Jobfish"
+    },
+    {
+      "id": 2,
+      "info": "Area closures and gear restrictions protect habitats that are affected by some kinds of trawl gear.",
+      "region": "Greater Atlantic",
+      "scientificName": "Urophycis tenuis",
+      "img": "../fishes/urophycis_tenuis_el-1.jpeg",
+      "name": "White Hake"
+    },
+    {
+      "id": 3,
+      "info": "Area closures and gear restrictions protect habitat that are affected by some types of trawl gear.",
+      "region": "Greater Atlantic",
+      "scientificName": "Scomber colias",
+      "img": "../fishes/640x427-Mackerel-Atlantic-NOAAFisheries.png",
+      "name": "Atlantic Chub Mackerel"
+    },
+    {
+      "id": 4,
+      "info": "Fishing gears used to harvest shortfin squid have minimal impacts on habitat.",
+      "region": "Greater Atlantic",
+      "scientificName": "Illex illecebrosus",
+      "img": "../fishes/shortfin-squid.webp",
+      "name": "Shortfin Squid"
+    },
+    {
+      "id": 5,
+      "info": "Fishing gears used to harvest American lobster have minimal impacts on habitat.",
+      "region": "Greater Atlantic",
+      "scientificName": "Homarus americanus",
+      "img": "../fishes/640x427-american-lobster.png",
+      "name": "American Lobster"
+    },
+    {
+      "id": 6,
+      "info": "Most fishing gear used to harvest yellowtail rockfish rarely contacts the ocean floor and has minimal impacts on habitat. Area closures and gear restrictions protect sensitive rocky, cold-water coral and sponge habitats from bottom trawl gear.",
+      "region": "West Coast, Alaska",
+      "scientificName": "Sebastes flavidus",
+      "img": "../fishes/640x427-rockfish_yellowtail_nb_w.jpg",
+      "name": "Yellowtail Rockfish"
+    },
+    {
+      "id": 7,
+      "info": "Area closures and gear restrictions protect sensitive rocky, cold-water coral and sponge habitats from bottom trawl gear.",
+      "region": "West Coast, Alaska",
+      "scientificName": "Sebastes paucispinis",
+      "img": "../fishes/640x427-bocaccio.jpg",
+      "name": "Bocaccio"
+    },
+    {
+      "id": 8,
+      "info": null,
+      "region": "West Coast, Greater Atlantic, Alaska",
+      "scientificName": "Saccharina latissima",
+      "img": "../fishes/large-sugar-kelp-leaves.webp",
+      "name": "Sugar Kelp"
+    },
+    {
+      "id": 9,
+      "info": null,
+      "region": "West Coast",
+      "scientificName": "Anoplopoma fimbria",
+      "img": "../fishes/534e2f9f231ceeb4b29de752c1aaf936.jpeg",
+      "name": "Sablefish"
+    },
+    {
+      "id": 10,
+      "region": "Greater Atlantic",
+      "scientificName": "Hippoglossus hippoglossus",
+      "img": "../fishes/1200px-Hippoglossus_hippoglossus2.jpg",
+      "name": "Atlantic Halibut"
+    }
+  ]
+}
